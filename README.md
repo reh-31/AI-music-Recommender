@@ -1,4 +1,4 @@
-# AI-music-Recommendation-system
+# AI Music Recommendation System
 
 This repository implements a content-based music recommendation system that suggests songs based on their lyrical content, using modern machine learning and natural language processing techniques. Unlike traditional collaborative systems that depend on user interaction data, this project relies on analyzing song features directly, ensuring recommendations work even for new or niche songs.
 
